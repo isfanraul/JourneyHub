@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JourneyHub</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="search_required">Enter a destination to search.</string>
+    <string name="map_not_ready">The map is still loading.</string>
+    <string name="location_not_found">No matching location was found.</string>
+    <string name="location_search_failed">Location search failed. Check your connection and try again.</string>
+    <string name="current_location_required">Allow location access before requesting directions.</string>
+    <string name="destination_required">Search for a destination or tap the map first.</string>
+    <string name="loading_directions">Loading public-transit directions...</string>
+    <string name="directions_failed">Directions could not be loaded. Check your connection and API key.</string>
+    <string name="no_route_found">No public-transit route was found.</string>
+    <string name="route_instructions">Route instructions:</string>
+    <string name="walk_instruction">Walk %1$s in %2$s\n</string>
+    <string name="transit_instruction">Take line %1$s at %2$d:%3$02d for %4$d stops\n</string>
+    <string name="selected_destination">Selected destination</string>
+    <string name="location_permission_required">Location permission is needed to calculate routes from your position.</string>
+</resources>
