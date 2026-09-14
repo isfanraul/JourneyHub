@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# JourneyHub
-=======
 # JourneyHub
 
 JourneyHub is an Android app for exploring destinations and planning public-transit journeys on Google Maps. Search for a destination, tap any point on the map, or use your current location as the route origin.
@@ -96,4 +93,3 @@ The project is configured for SDK 36 and Java 17. Run the debug build before tes
 ```powershell
 .\gradlew.bat clean assembleDebug
 ```
->>>>>>> local-snapshot
